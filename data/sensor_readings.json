@@ -1,0 +1,12 @@
+[
+  {"id": "TC-B1", "weight_deviation_pct": 5,  "crack_severity_pct": 0,  "tilt_triggered": false},
+  {"id": "TC-B2", "weight_deviation_pct": 90, "crack_severity_pct": 95, "tilt_triggered": true},
+  {"id": "TC-B3", "weight_deviation_pct": 70, "crack_severity_pct": 5,  "tilt_triggered": false},
+  {"id": "TC-B4", "weight_deviation_pct": 10, "crack_severity_pct": 80, "tilt_triggered": false},
+  {"id": "TC-B5", "weight_deviation_pct": 20, "crack_severity_pct": 10, "tilt_triggered": true},
+  {"id": "TC-B6", "weight_deviation_pct": 45, "crack_severity_pct": 20, "tilt_triggered": false},
+  {"id": "TC-B7", "weight_deviation_pct": 0,  "crack_severity_pct": 0,  "tilt_triggered": false},
+  {"id": "TC-B8", "weight_deviation_pct": 100,"crack_severity_pct": 100,"tilt_triggered": true},
+  {"id": "TC-B9", "weight_deviation_pct": 30, "crack_severity_pct": 55, "tilt_triggered": true},
+  {"id": "TC-B10","weight_deviation_pct": 60, "crack_severity_pct": 40, "tilt_triggered": false}
+]
