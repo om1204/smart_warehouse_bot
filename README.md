@@ -37,8 +37,7 @@ The connectionist module features neural network models for pattern recognition 
 **How to run:**
 1. Ensure your terminal is in the project root directory.
 2. For an interactive exploration, start Jupyter by running: `jupyter notebook`
-3. Open the file `part4_networks/anomaly_notebook.ipynb` and run the cells.
-4. Alternatively, you can run the test suite by executing: `pytest part4_networks/tests/test_connectionist.py`
+3. Open the file `python run_module4.py` and run in command prompt.
 
 ## Module E: Expert System
 The expert system provides diagnostic capabilities using a forward-chaining rule engine written in pure Python. It evaluates symptoms flagged by the uncertainty module and infers root causes (e.g., motor failure, structural damage). The system includes an interactive knowledge acquisition component and provides traces explaining its diagnostic reasoning.
