@@ -55,3 +55,4 @@ The integration layer generates synthetic shift logs encompassing sensor reading
 1. Ensure your terminal is in the project root directory.
 2. Run the command: `python main.py`
 3. Follow the console output for the full simulation of the integrated warehouse system.
+"# smart-warehouse-bot" 
