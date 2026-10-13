@@ -18,7 +18,8 @@ The planning module implements both Nilsson's Goal Stack Planning and a Partial 
 
 **How to run:**
 1. Ensure your terminal is in the project root directory.
-2. Run the command: `python part1_planner/plan.py`
+2. Run the command: ` python main.py
+   python part1_planner/plan.py data/start.json data/goal.json`
 3. Check the console output to observe the generated plans and task expansions.
 
 ## Module B: Uncertainty
