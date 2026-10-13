@@ -6,6 +6,12 @@ Before running any module, please ensure your environment is set up properly:
 2. Navigate to the project's root directory (`smart_warehouse_bot`).
 3. (Optional but recommended) Create and activate a Python virtual environment.
 4. Install all necessary dependencies by running: `pip install -r requirements.txt`
+   python main.py
+   python part1_planner/plan.py data/start.json data/goal.json
+   python part2_uncertainty/compare.py
+   python part3_docking/dock_game.py
+   python run_module4.py
+   python part5_expert/expert_advisor.py
 
 ## Module A: Planning
 The planning module implements both Nilsson's Goal Stack Planning and a Partial Order Planner (POP) to arrange boxes in the warehouse. It features high_level_planner task expansion for pallet loading and a reactive_layer execution layer that repairs plans when environmental disturbances occur. The nonlinear planner is capable of generating parallel execution steps for independent subgoals.
